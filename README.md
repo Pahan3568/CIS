@@ -1,6 +1,7 @@
 # Minecraft СНГ — объединение всех сообществ по разным темам.
 
 Предложка: [Ссылка (Telegram)](https://t.me/pahan3568)
+
 Наши соцсети:
 [Telegram канал](https://t.me/CISmcgg)
 [Telegram чат](https://t.me/+iHRM9GWD8C05N2Ri)
