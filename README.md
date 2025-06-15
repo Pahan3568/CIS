@@ -18,13 +18,9 @@
 
 
 # Навигация
-[Творчество](creative.md)  
-
-Создание серверов (отсутствуют)  
-
-Программмирование (отсутствуют)  
-
-[Студии/команды](teams.md)  
-
-Магазины (отсутствуют)
+[![Творчество](assets/b_creative.svg)](creative.md)  
+[![Создание серверов](assets/b_servers.svg)](servers.md)  
+[![Программированиа](assets/b_dev.svg)](dev.md)  
+[![Команды/студии](assets/b_teams.svg)](teams.md)  
+[![Магазины](assets/b_shops.svg)](shops.md)  
 
