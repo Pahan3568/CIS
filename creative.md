@@ -6,3 +6,5 @@
 
 [MiBlend Official Community](https://discord.gg/wMeeJR627t) — официальный Discord сервер аддона Miblend* для Blender.
 > **Miblend* — новый аддон для Blender, упрощающий работу с Minecraft контентом. Заменяет устаревший MCPrep.
+
+[![Главная](assets/b_home.svg)](home)
