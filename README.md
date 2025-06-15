@@ -18,9 +18,9 @@
 
 
 # Навигация
-[![Творчество](assets/b_creative.svg)](creative.md)  
-[![Создание серверов](assets/b_servers.svg)](servers.md)  
-[![Программированиа](assets/b_dev.svg)](dev.md)  
-[![Команды/студии](assets/b_teams.svg)](teams.md)  
-[![Магазины](assets/b_shops.svg)](shops.md)  
+[![Творчество](assets/b_creative.svg)](creative)  
+[![Создание серверов](assets/b_servers.svg)](servers)  
+[![Программированиа](assets/b_dev.svg)](dev)  
+[![Команды/студии](assets/b_teams.svg)](teams)  
+[![Магазины](assets/b_shops.svg)](shops)  
 
